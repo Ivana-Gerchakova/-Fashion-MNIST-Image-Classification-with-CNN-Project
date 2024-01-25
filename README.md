@@ -6,6 +6,8 @@ This project involves building a Convolutional Neural Network (CNN) for image cl
 The dataset consists of 60,000 training and 10,000 test examples, each being a 28x28 grayscale image associated with a label from 10 classes. 
 The goal is to replace the original MNIST dataset and benchmark machine learning algorithms.
 
+<img src="Images/fashion-mnist-sprite.png">
+
 ## Project Highlights :
   - **Scaling:** Preprocess the data by scaling with mean and standard deviation.
 - **CNN Model:**
@@ -31,4 +33,21 @@ The goal is to replace the original MNIST dataset and benchmark machine learning
 - **Confusion Matrix:** Plotting a confusion matrix and classification report.
   
 ## Project Preview :
-<img src="Images/Do not reject H0.png">
+## This is a visual representation of the Report Table - Train :
+<img src="Images/Report Table - Train.png">
+
+## This is a visual representation of the Report Table - Valid :
+<img src="Images/Report Table - Valid.png">
+
+## This is a visual representation of Final evaluation of the model:
+<img src="Images/Final evaluation of the model.png">
+
+## This is a Image prediction visualization :
+<img src="Images/Image prediction visualization 1.png">
+
+## This is a Image prediction visualization :
+<img src="Images/Image prediction visualization 2.png">
+
+
+
+

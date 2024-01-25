@@ -2,7 +2,7 @@
 Machine Learning-Fashion-MNIST-Image-Classification-with-Convolutional Neural Network(CNN)-Project.
 
 ## Project Overview :
-This project involves building a Convolutional Neural Network (CNN) for image classification using the Fashion-MNIST dataset.
+This project involves building a Convolutional Neural Network (CNN) for image classification using the [Fashion MNIST](https://github.com/zalandoresearch/fashion-mnist) dataset.
 The dataset consists of 60,000 training and 10,000 test examples, each being a 28x28 grayscale image associated with a label from 10 classes. 
 The goal is to replace the original MNIST dataset and benchmark machine learning algorithms.
 
